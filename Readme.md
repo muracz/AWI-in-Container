@@ -3,6 +3,7 @@
 This repository contains sample code for running AWI in Container. Demonstrated during Webinar on 11.10.2023.
 
 ### Jetty Config
+
 A traditional approach. AWI is configured using configuration files. Steps to deploy:
 
 1. Unzip the AWI binaries to the /WebInterface directory
